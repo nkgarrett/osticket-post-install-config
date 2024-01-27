@@ -22,63 +22,59 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
- (Post Installation Setup)
-Configure Roles
+<b>(Post Installation Setup)</b>
+
+<b>Click http://localhost/osTicket/scp/login.php and log into your account</b>
+<br> <br>
+<b>1. Configure</b> 
+<a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a> </b>
+  * Admin Panel -> Agents -> Roles
+  * Supreme Admin<br>
+  
+<b>2. Configure</b>
+<a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.htmlzz">Departments</a><br>
+ * Admin Panel -> Agents -> Departments<br>
+ * System Administrators
 <br>
+
+<b>3. Configure</b><a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams<br>
+* Admin Panel -> Agents -> Teams<br>
+      i. Level I Support<br>
+      ii. Level II Support
+
+  
+<b> 4. Allow anyone to create tickets</b>
 <br>
-Admin Panel -> Agents -> Roles
-Supreme Admin
+  * Admin Panel -> Settings -> User Settings<br>
+  * Registration Required: Require registration and login to create tickets 
 <br>
+
+<b>5. Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents</a> (workers)
 <br>
-Configure Departments
+ * Admin Panel -> Agents -> Add New<br>
+   i. Jane<br>
+  ii. John
+
+<b> 6. Configure Users</b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">(customers)</a>
 <br>
+ * Agent Panel -> Users -> Add New<br>
+   i. Karen<br>
+  ii. Ken
+
+<b> 7. Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a>
 <br>
-Admin Panel -> Agents -> Departments
-System Administrators
+  * Admin Panel -> Manage -> SLA<br>
+   i. Sev-A (1 hour, 24/7)<br>
+   ii. Sev-B (4 hours, 24/7)<br>
+   iii. Sev-C (8 hours, business hours)
+
+<b> 8. Configure Help Topics</b>
 <br>
-Configure Teams
-<br>
-Admin Panel -> Agents -> Teams
-<br>
-Level I Support
-Level II Support 
-<br>
-Allow anyone to create tickets
-<br>
-Admin Panel -> Settings -> User Settings
-<br>
-Registration Required: Require registration and login to create tickets 
-<br>
-Configure Agents (workers)
-<br>
-Admin Panel -> Agents -> Add New
-<br>
-Jane
-John
-<br>
-Configure Users (customers)
-<br>
-Agent Panel -> Users -> Add New
-<br>
-Karen
-Ken
-<br>
-Configure SLA
-<br>
-Admin Panel -> Manage -> SLA
-<br>
-Sev-A (1 hour, 24/7)<br>
-Sev-B (4 hours, 24/7)<br>
-Sev-C (8 hours, business hours)
-<br>
-Configure Help Topics
-<br>
-Admin Panel -> Manage -> Help Topics
-<br>
-Business Critical Outage<br>
-Personal Computer Issues<br>
-Equipment Request<br>
-Password Reset<br>
+ * Admin Panel -> Manage -> Help Topics<br>
+  i. Business Critical Outage<br>
+  ii. Personal Computer Issues<br>
+  iii. Equipment Request<br>
+  iv. Password Reset<br>
 
 
 <h2>Configuration Steps</h2>

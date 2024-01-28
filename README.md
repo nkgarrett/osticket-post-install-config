@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  * System Administrators
 <br>
 
-<b>3. Configure</b><a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams<br>
+<b>3. Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams<br>
 * Admin Panel -> Agents -> Teams<br>
       i. Level I Support<br>
       ii. Level II Support
@@ -50,12 +50,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 <b>5. Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents</a> (workers)
 <br>
- * Admin Panel -> Agents -> Add New<br>
-   i. Jane<br>
+
+* Admin Panel -> Agents -> Add New<br>
+  i. Jane<br>
   ii. John
 
 
-<b> 6. Configure Users</b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">(customers)</a>
+<b> 6. Configure</b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers))</a>
 <br>
  * Agent Panel -> Users -> Add New<br>
    i. Karen<br>
@@ -98,16 +99,16 @@ Make sure these boxes are empty
 
 <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/4ad050d9-e219-423c-a03a-ad373afae2c6" width="500 px">
 <br>
-<b>Configure Jane's settings:</b>
-  * Department -> System Administrators -> Supreme Admin
-  * Teams -> Level II Support
+<b>Configure Jane's settings:</b><br>
+   Department -> System Administrators -> Supreme Admin<br>
+   Teams -> Level II Support
 
 <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/1a8cf75c-fc25-4894-97e4-836e743c125a" width="500 px">
 
 <br>
 <b>Configure John's settings:</b><br> 
-  * Department -> Support -> View Only<br>
-  * Extended Access -> Support
+   Department -> Support -> View Only<br>
+   Extended Access -> Support
 
   <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/d2a153b5-84a3-481a-9420-44ca055b7a98" width="500 px">
 

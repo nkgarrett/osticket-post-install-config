@@ -97,32 +97,27 @@ Be sure to leave registration required blank
 Create/remember credentials to be able to log in
 Make sure these boxes are empty
 
-<img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/4ad050d9-e219-423c-a03a-ad373afae2c6" width="500 px">
+<img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/4ad050d9-e219-423c-a03a-ad373afae2c6" width="500 px"><br>
+<b> - Configure Jane's settings:</b><br>
+   Department -> System Administrators -> Supreme Admin -> Extended Access -> Support -> Supreme Admin<br>
+   Teams -> Level II Support<br>
+   <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/29a9dfc8-f1e6-443e-9aea-7250b69fe143" width="500 px">
 <br>
-<b>Configure Jane's settings:</b><br>
-   Department -> System Administrators -> Supreme Admin<br>
-   Teams -> Level II Support
-
-<img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/1a8cf75c-fc25-4894-97e4-836e743c125a" width="500 px">
-
 <br>
-<b>Configure John's settings:</b><br> 
+<b> - Configure John's settings:</b><br> 
    Department -> Support -> View Only<br>
-   Extended Access -> Support
-
-  <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/d2a153b5-84a3-481a-9420-44ca055b7a98" width="500 px">
+   Extended Access -> Support<br>
+   <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/d2a153b5-84a3-481a-9420-44ca055b7a98" width="400 px">
 
 <br />
 <br>
 <b>7. Configure SLA</b><br>
-   i. Sev-A (1 hour, 24/7)
-   
-<img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/97fdd003-2ee8-4f06-8b06-5d5c82e89803" width="500 px">
+   i. Sev-A (1 hour, 24/7)<br>
+   <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/97fdd003-2ee8-4f06-8b06-5d5c82e89803" width="500 px">
 
 <p>
 <b>8. Configure Help Topics</b><br>
-    i. Business Critical Outage
-
+    i. Business Critical Outage<br>
  <img src="https://github.com/nkgarrett/osticket-post-install-config/assets/156832893/a2127338-ef5a-4560-859f-85957ca3a689" width="500 px">
 
 </p>

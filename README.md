@@ -59,8 +59,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <b> 6. Configure</b> <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers))</a>
 <br>
  * Agent Panel -> Users -> Add New<br>
-   i. Karen<br>
-  ii. Ken
+   i. Karen Karen ex. email - Karen@osticket.com <br>
+  ii. Ken Ken ex. email - ken@osticket.com
 
 <b> 7. Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a>
 <br>
